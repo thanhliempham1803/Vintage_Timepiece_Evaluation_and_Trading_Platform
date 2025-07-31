@@ -1,12 +1,20 @@
-# React + Vite
+#  Frontend - Vintage Timepiece Evaluation and Trading Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Run App
+🔹 Bước 1: Cài đặt Node.js
 
-## Expanding the ESLint configuration
+Bạn cần cài [Node.js](https://nodejs.org/) nếu chưa có sẵn.
+Kiểm tra:
+```bash
+node -v
+npm -v
+🔹 Bước 2: Cài đặt thư viện cần thiết
+npm install
+🔹 Bước 3: Chạy ứng dụng
+npm run dev
+ 🔹Bước 4: Truy cập vào giao diện
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Mở trình duyệt và truy cập:
+ http://localhost:5173
